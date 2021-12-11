@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.metroimg {
+    max-width: 604px;
+}
+
+.container .global {
+    padding: 5rem;
+}
+
+.select2-container {
+    width:100% !important;
+}
