@@ -1,0 +1,59 @@
+
+
+.thin-text,
+.sub-text a,
+.about-box .about-box-icon,
+.fact-wrap .fact-icon,
+.team-box-down p,
+.team-box-down .social-team a:hover,
+.about-bottom-left .link-left a:hover,
+.tp-title span:nth-child(2),
+.services-top-wrap .subtext-ser-top,
+.process-wrap .arrow-right-process,
+.featured h5,
+.plan-icon,
+.blog-wrap .blog-wrap-icon,
+.project-section-down h6 span,
+.blog-text-name,
+.blog-text-wrap p span{ 
+	color:#D6B05E;
+}
+.sub-text a::before{
+	border: 1px solid #D6B05E;
+}
+.about-bottom-right,
+.work-bottom,
+.project-link-to-page1:hover,
+.project-link-to-page2:hover{
+	background:#D6B05E;
+}
+.about-bottom-left .link-left a::after,
+.link-project a::after{
+	border: 1px solid #D6B05E;
+}
+.tp-grid li a{
+	border:5px solid #D6B05E;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
